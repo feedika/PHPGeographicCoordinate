@@ -1,6 +1,7 @@
 {
     "name": "feedika/php-geographic-coordinate",
     "type": "library",
+    "minimum-stability": "stable",
     "description": "php-geographic-coordinate is a PHP geographic coordinate library",
     "keywords": ["location", "geographic", "coordinate", "PHP"],
     "homepage": "https://www.feedika.com/",
