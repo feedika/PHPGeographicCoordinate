@@ -1,5 +1,5 @@
 <?php
-namespace feedika\PHPGeographicCoordinate;
+namespace PHPGeographicCoordinate;
 
 class Coordinate
 {
